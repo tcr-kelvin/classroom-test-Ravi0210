@@ -1,0 +1,15 @@
+body{
+
+    background-color: salmon;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+
+}
+#bal{
+
+    background-color: green;
+    border: black 1px dot-dot-dash;
+    border-radius: 20px;
+
+}
